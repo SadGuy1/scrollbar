@@ -18,6 +18,7 @@
      <body>
      <h1>Text</h1>
      </body>
-     </html>```
-# If You have any questions, join my discord!
+</html>
+```
+### If You have any questions, join my discord!
 https://discord.com/invite/YZ684Sp

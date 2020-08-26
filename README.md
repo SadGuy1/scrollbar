@@ -21,4 +21,4 @@
 </html>
 ```
 ### If You have any questions, join my discord!
-https://discord.com/invite/YZ684Sp
+[Ekipa SadGuy'a](https://discord.com/invite/YZ684Sp)

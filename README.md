@@ -20,6 +20,6 @@
      </body>
      </html>
      ```
-  # If You have any questions, join my discord!
-  - [Ekipa SadGuy'a](https://discord.com/invite/YZ684Sp)
+# If You have any questions, join my discord!
+- [Ekipa SadGuy'a](https://discord.com/invite/YZ684Sp)
 

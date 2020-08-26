@@ -18,8 +18,7 @@
      <body>
      <h1>Text</h1>
      </body>
-     </html>
-     ```
+     </html>```
  If You have any questions, join my discord!
 - [Ekipa SadGuy'a](https://discord.com/invite/YZ684Sp)
 
